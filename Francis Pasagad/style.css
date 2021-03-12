@@ -1,0 +1,38 @@
+@font-face {
+  font-family: Abel;
+  src: url(Abel.ttf);
+}
+.name{
+  color:white;
+  font-family: "Abel";
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 0px;
+}
+.information {
+  color:white;
+  font-family: "Abel";
+  text-transform: uppercase;
+  margin-top: -10px;
+}
+.display-picture{
+  width: 300px;
+}
+.content {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+.marq{
+  color:white;
+  font-family: "Abel";
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+body{
+  background-color: black;
+}
